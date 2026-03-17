@@ -48,18 +48,19 @@ DOWN:  DJNZ R6,LOOP
 HERE:  SJMP HERE
 
 END
-
-
-
-
 ```
 ## OUTPUT(Ascending order)
+![1 ](https://github.com/user-attachments/assets/27ec3826-eb58-4ef9-b664-6625c6d938ce)
+![2](https://github.com/user-attachments/assets/f48c99d7-7ca4-46d2-aaee-c8a2a142695b)
+![3](https://github.com/user-attachments/assets/db10711c-6de2-441c-aea7-44381b52cb97)
+![4](https://github.com/user-attachments/assets/14c32fed-c92a-4c51-8081-4a5ae6287e6e)
 
 
 
 ---
 
 ## Algorithm(Descending order)
+
 1. Initialize the register **R7** with count.  
 2. Get first two elements in two registers.  
 3. Compare the two elements of data:  
@@ -96,10 +97,12 @@ END
 
 ```
 ## OUTPUT(Descending order)
+![5](https://github.com/user-attachments/assets/78bf8311-43c0-49cb-846d-19c393541c68)
 
 
 
 ---
 ## RESULT:
+
 Thus the sorting of given data was done using 8051 keil software.
 
